@@ -1,6 +1,30 @@
+
+<div align="center">
+
 # Swap Health - AI-Powered Fitness & Healthcare App
 
-A comprehensive React Native mobile application that combines AI-powered exercise tracking, medical consultations, and health monitoring capabilities. Built with pose estimation technology and integrated healthcare provider dashboards.
+**A comprehensive React Native mobile application that combines AI-powered exercise tracking, medical consultations, and health monitoring capabilities. Built with pose estimation technology and integrated healthcare provider dashboards.**
+
+### 🎥 [Watch Demo Video](https://drive.google.com/file/d/1ZLwyStOVDrgzkPWb9m38nKBzESaOcgcB/view?usp=drive_link)
+
+</div>
+
+
+---
+
+## 👥 Team Members
+
+<table>
+<tr>
+<td align="center"><b>Yash Srivastava</b><br/>Roll No: 23BDS071</td>
+<td align="center"><b>Karan Kabdal</b><br/>Roll No: 23BDS028</td>
+</tr>
+<tr>
+<td align="center"><b>Yash Birje</b><br/>Roll No: 23BDS070</td>
+</tr>
+</table>
+
+---
 
 ## 🌟 Features
 
