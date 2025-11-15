@@ -26,6 +26,8 @@
 
 ---
 ## 📁 Folder Structure
+```
+
 .
 ├── .expo/
 ├── Components/
@@ -121,7 +123,9 @@
 ├── package.json
 ├── swap_health.db
 └── tsconfig.json
+```
 
+---
 ## 🌟 Features
 
 ### 🏃‍♂️ AI-Powered Exercise Tracking
