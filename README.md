@@ -25,6 +25,102 @@
 </table>
 
 ---
+## 📁 Folder Structure
+.
+├── .expo/
+├── Components/
+│
+├── Admin/
+│
+├── Auth/
+│   ├── AuthScreen.tsx
+│   ├── LoginScreen.tsx
+│   └── RegisterScreen.tsx
+│
+├── Chatbot/
+│   ├── HealthChatbot.tsx
+│   └── README.md
+│
+├── Common/
+│
+├── Consent/
+│
+├── Dashboard/
+│   ├── DoctorDashboard.tsx
+│   ├── HealthMetrics.tsx
+│   ├── PatientAnalytics.tsx
+│   ├── PatientDashboard.tsx
+│   ├── PatientList.tsx
+│   └── WorkoutSuggestions.tsx
+│
+├── DataSharing/
+│
+├── Exercise/
+│
+├── ExercisePrescription/
+│   └── DoctorPrescriptionInterface.tsx
+│
+├── Profile/
+│
+├── Welcome.tsx
+│
+├── assets/
+│
+├── backend/
+│   ├── __pycache__/
+│   ├── IMPLEMENTATION_SUMMARY....
+│   ├── README.md
+│   ├── file_handler.py
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── swap_health.db
+│   ├── tensorflow_config.py
+│   └── test_endpoints.py
+│
+├── config/
+│
+├── docs/
+│
+├── exercises/
+│
+├── fitness/
+│
+├── node_modules/
+│
+├── scripts/
+│
+├── services/
+│   ├── authService.ts
+│   ├── cameraService.ts
+│   ├── cameraServiceExample.ts
+│   ├── consentService.ts
+│   ├── databaseService.ts
+│   ├── exerciseAnalysisService.ts
+│   ├── exercisePrescriptionService.ts
+│   ├── fitnessBackendService.ts
+│   ├── fitnessBackendServiceExample.ts
+│   ├── huggingFaceService.ts
+│   ├── mockApiService.ts
+│   ├── monitoringService.ts
+│   ├── networkConfig.ts
+│   ├── networkService.ts
+│   ├── secureDataService.ts
+│   ├── simpleFitnessService.ts
+│   └── squatAnalysisService.ts
+│
+├── types/
+│
+├── .env
+├── .gitattributes
+├── App.tsx
+├── README.md
+├── app.json
+├── babel.config.js
+├── index.ts
+├── package-lock.json
+├── package.json
+├── swap_health.db
+└── tsconfig.json
 
 ## 🌟 Features
 
